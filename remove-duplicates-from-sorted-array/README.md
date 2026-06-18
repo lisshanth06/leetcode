@@ -46,4 +46,4 @@ nums is sorted in non-decreasing order.
 
 ## Solution
 
-See `Solution.java` in this folder.
+See `Remove dupicate sorted array.java` in this folder.

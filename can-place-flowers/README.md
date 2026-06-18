@@ -25,4 +25,4 @@ There are no two adjacent flowers in flowerbed.
 
 ## Solution
 
-See `Solution.java` in this folder.
+See `canplace flowers.java` in this folder.

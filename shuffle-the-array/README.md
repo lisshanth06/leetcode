@@ -33,4 +33,4 @@ nums.length == 2n
 
 ## Solution
 
-See `Solution.java` in this folder.
+See `shuffle an array.java` in this folder.

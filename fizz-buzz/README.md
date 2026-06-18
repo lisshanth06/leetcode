@@ -29,4 +29,4 @@ Constraints:
 
 ## Solution
 
-See `Solution.java` in this folder.
+See `fizzbuzz.java` in this folder.

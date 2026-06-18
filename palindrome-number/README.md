@@ -34,4 +34,4 @@ Follow up: Could you solve it without converting the integer to a string?
 
 ## Solution
 
-See `Solution.java` in this folder.
+See `Palindrome.java` in this folder.

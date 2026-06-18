@@ -37,4 +37,4 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 
 ## Solution
 
-See `Solution.java` in this folder.
+See `Two Sum.java` in this folder.

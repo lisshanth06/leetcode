@@ -33,4 +33,4 @@ It is guaranteed that the list represents a number that does not have leading ze
 
 ## Solution
 
-See `Solution.c` in this folder.
+See `Add two numbers in linkedlist.c` in this folder.

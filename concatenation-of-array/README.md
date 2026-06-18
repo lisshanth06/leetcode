@@ -33,4 +33,4 @@ n == nums.length
 
 ## Solution
 
-See `Solution.java` in this folder.
+See `concat array.java` in this folder.
