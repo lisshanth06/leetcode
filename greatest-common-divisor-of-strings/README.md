@@ -36,4 +36,4 @@ str1 and str2 consist of English uppercase letters.
 
 ## Solution
 
-See `gcd of strings.java` in this folder.
+See `Solution.java` in this folder.

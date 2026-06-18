@@ -53,4 +53,4 @@ Constraints:
 
 ## Solution
 
-See `27 remove element.java` in this folder.
+See `Solution.java` in this folder.

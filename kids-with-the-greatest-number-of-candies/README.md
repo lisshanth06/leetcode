@@ -42,4 +42,4 @@ n == candies.length
 
 ## Solution
 
-See `candies.java` in this folder.
+See `Solution.java` in this folder.
