@@ -3,15 +3,14 @@ class Solution {
         int n = nums.length;
         int pos = 0;
         for(int i=0;i<n;i++){
-          if(nums[i]!=0){
-            int temp = nums[pos];
-            nums[pos]=nums[i];
-            nums[i] = temp;
-            pos++;
-          }
-               
+            if(nums[i]!=0){
+                nums[pos]=nums[i];
+                pos++;
+            }
         }
-        
+        while(pos<n){
+            nums[pos]=0;
+            pos++;
+        }
     }
-    
 }
