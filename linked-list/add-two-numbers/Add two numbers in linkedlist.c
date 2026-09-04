@@ -1,3 +1,4 @@
+// Secondary pattern: math (digit-by-digit addition with carry)
  struct ListNode* create(int value){
     struct ListNode* temp=malloc(sizeof(struct ListNode));
     temp->val=value;

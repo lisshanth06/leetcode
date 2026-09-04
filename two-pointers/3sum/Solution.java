@@ -1,3 +1,4 @@
+// Secondary pattern: sorting (array is sorted first to enable the two-pointer scan)
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);

@@ -1,3 +1,4 @@
+// Secondary pattern: two-pointers (Floyd's fast/slow cycle detection)
 /**
  * Definition for singly-linked list.
  * class ListNode {

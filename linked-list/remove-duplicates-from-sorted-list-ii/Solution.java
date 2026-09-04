@@ -1,3 +1,4 @@
+// Secondary pattern: two-pointers (prev/curr pointer walk)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
